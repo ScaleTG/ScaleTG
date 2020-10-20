@@ -1,0 +1,3 @@
+[submodule "modules/core"]
+	path = modules/core
+	url = git@github.com:WiGeeky/ScaleTG-modules-core
