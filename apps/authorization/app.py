@@ -1,6 +1,9 @@
-from modules.auth import Auth
+""" Authorization App
+Adds a default authorization feature to ScaleTG (to allow management through Telegram)
+"""
+from modules.core.auth import Auth
 from config import bot_username
-from modules.core import Response
+from modules.core.core import Response
 
 DEFINED_COMMANDS = [
     'addauth',
