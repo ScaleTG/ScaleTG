@@ -8,7 +8,7 @@ having scalibility in mind, the roadmap of this project is currently under devel
 To use the ScaleTG platform, run the following commands in your desired location:
 
 ```bash
-git clone https://github.com/WiGeeky/ScaleTG depth=1
+git clone depth=1 https://github.com/WiGeeky/ScaleTG
 cd ScaleTG
 rm -r .git && git init # This is optional, but it is reccommended that you initialize a new git repository
 python3 -m venv .env
