@@ -4,7 +4,7 @@ To get started with ScaleTG, run the following commands:
 
 .. code-block:: bash
 
-   git clone --depth 1 https://github.com/WiGeeky/ScaleTG.git
+   git clone --depth 1 https://github.com/ScaleTG/ScaleTG.git
    cd ScaleTG
    git submodule sync
    git submodule update --init --force --recursive modules/core apps/authorization
