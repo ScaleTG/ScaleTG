@@ -1,6 +1,5 @@
 Structure
 ==========
-File & Directory Structure 
 
 A typical ScaleTG project consists of these files and directories:
 

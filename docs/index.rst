@@ -7,5 +7,7 @@ Welcome to ScaleTG's documentation!
    :maxdepth: 2
 
    getting_started
+   how_it_works
    structure
+   deploy
 
