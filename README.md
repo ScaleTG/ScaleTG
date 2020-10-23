@@ -16,6 +16,7 @@ rm -rf .git && git init # This is optional, but it is reccommended that you init
 python3 -m venv .env
 ./.env/bin/pip3 install -r requirements.txt
 cp config.example.py config.py
+git add . && git commit -m "initial commit"
 ```
 then edit the `config.py` file and enter the information necessary.
 
