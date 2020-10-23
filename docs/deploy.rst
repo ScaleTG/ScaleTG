@@ -16,7 +16,8 @@ you should make sure you're binding Gunicorn to localhost instead of 0.0.0.0 for
 
 Here's an example of how to use gunicorn for your project:
 
-.. code-block::bash
+.. code-block:: bash
+
     gunicorn wsgi:app -b 127.0.0.1:8000
 
 
@@ -26,7 +27,8 @@ You may use the web server of your choice for pointing requests to your bot. How
 
 Below as an example of what your virtual host configuration may look like:
 
-.. code-block::json
+.. code-block:: 
+
     server {
         server_name example.com;
 
