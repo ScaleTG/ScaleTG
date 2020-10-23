@@ -10,7 +10,7 @@ To use the ScaleTG platform, run the following commands in your desired location
 ```bash
 git clone depth=1 https://github.com/WiGeeky/ScaleTG
 cd ScaleTG
-rm -r .git && git init # This is optional, but it is reccommended that you initialize a new git repository
+rm -rf .git && git init # This is optional, but it is reccommended that you initialize a new git repository
 python3 -m venv .env
 ./.env/bin/pip3 install -r requirements.txt
 cp config.example.py config.py
