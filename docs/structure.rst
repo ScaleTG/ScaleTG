@@ -1,5 +1,7 @@
-Project Structure
------------------
+Structure
+==========
+File & Directory Structure 
+
 A typical ScaleTG project consists of these files and directories:
 
 **apps**
@@ -27,4 +29,4 @@ A typical ScaleTG project consists of these files and directories:
 
    it is also responsible for returning a response so it is provided back to webhook
 
-**Note:** *this structure does not go over the included authorized app modules*
+**Note:** *this structure does not go over the included authorized app modules.*
