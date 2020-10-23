@@ -6,8 +6,7 @@ Welcome to ScaleTG's documentation!
 .. toctree::
    :maxdepth: 2
    
-   Understanding ScaleTG
-      structure
+   structure
 
 
 Getting Started
