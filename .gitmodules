@@ -1,6 +1,6 @@
 [submodule "modules/core"]
 	path = modules/core
-	url = https://github.com/WiGeeky/ScaleTG-modules-core
+	url = https://github.com/ScaleTG/ScaleTG-modules-core
 [submodule "apps/authorization"]
 	path = apps/authorization
-	url = https://github.com/WiGeeky/ScaleTG-apps-authorize
+	url = https://github.com/ScaleTG/ScaleTG-apps-authorize
