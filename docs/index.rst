@@ -12,8 +12,9 @@ Getting Started
 To get started with ScaleTG, run the following commands:
 
 .. code-block:: bash
-   
+
    git clone https://github.com/WiGeeky/ScaleTG depth=1
+   cd ScaleTG
    rm -r .git && git init # This is optional, but it is reccommended that you initialize a new git repository
    python3 -m venv .env
    ./.env/bin/pip3 install -r requirements.txt
