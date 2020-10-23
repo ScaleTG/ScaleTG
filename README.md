@@ -8,7 +8,7 @@ having scalibility in mind, the roadmap of this project is currently under devel
 To use the ScaleTG platform, run the following commands in your desired location:
 
 ```bash
-git clone --depth 1 https://github.com/WiGeeky/ScaleTG.git
+git clone --depth 1 https://github.com/ScaleTG/ScaleTG.git
 cd ScaleTG
 git submodule sync
 git submodule update --init --force --recursive modules/core apps/authorization
